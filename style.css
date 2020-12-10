@@ -1,0 +1,113 @@
+.container {
+	background-color: whitesmoke;
+	max-width: 1080px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+    margin: 20px;
+}
+
+a:hover {
+    transition: 0.3s;
+    color: #e6336e;
+}
+#home{
+	color: #e6336e;
+}
+#home:hover{
+	transition: 0.3s;
+    color: white;
+}
+b{
+	color: #e6336e;
+}
+
+.header{
+	background-image: url(gambar1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 400px;
+	padding-top: 20px;
+	width: 100%;
+	margin: 0 auto;
+	font-family: arial;
+	color: white;
+	text-align: center;
+}
+
+
+.left {
+	float: left;
+	margin-left: 10px;
+
+}
+
+
+.right {
+	float: right;
+	text-decoration: none;
+	color: white;
+
+}
+
+.hunian{
+	color: #E6336E;
+	text-align: center;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+
+.content {
+	height: 400px;
+	background-image: url(gambar2.jpg);
+	background-size: 40%;
+	background-repeat: no-repeat;
+	margin-top:  100px;
+	margin-left:  40px;
+	font-family: arial;
+}
+
+.fasilitas {
+	float: right;
+	margin-top: 20px;
+	margin-right: 40px;
+}
+
+.tulis {
+	color: #402f47;
+}
+
+.fasilitas a{
+	color: #E6336E;
+	margin-right: 40px;
+}
+
+.fasilitas a:hover {
+	transition: 0.3s;
+	color: #402f47;
+}
+
+.content2 {
+	height: 250px;
+	background-color: #402f47;
+	text-align: center;
+	color: #E6336E;
+	font-family: arial;
+}
+
+.pe {
+	color: white;
+}
+
+.footer {
+	background-color: #E6336E;
+	color: white;
+	text-align: center;
+	height: 100px; 
+	font-family: arial;
+}
